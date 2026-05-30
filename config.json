@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildncrypt",
+        "uuid": 3610035,
+        "checksum": "4mcyb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
